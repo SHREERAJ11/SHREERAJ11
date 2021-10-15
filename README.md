@@ -1,9 +1,15 @@
-### Hi there 👋
+
 
 ![SHREERAJ11](https://user-images.githubusercontent.com/87289615/137436471-036ae10c-a2b5-40dc-9927-6575334b605e.png)
 
 <h1 align="center"> I'm Sobhan Shreeraj Sa</h1>
 <h3 align="center">A beginner to the Coding World!</h3>
+
+
+- 🌱 I’m currently learning **Full stack Web Development**
+
+- 📫 How to reach me **sobhansa03@gmail.com**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeraj11&label=Profile%20views&color=0e75b6&style=flat" alt="shreeraj11" /> </p>
 
@@ -11,9 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/_sobhansa" target="blank"><img src="https://img.shields.io/twitter/follow/_sobhansa?logo=twitter&style=for-the-badge" alt="_sobhansa" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack Web Development**
 
-- 📫 How to reach me **sobhansa03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
