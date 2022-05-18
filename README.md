@@ -6,9 +6,9 @@
 <h3 align="center">A beginner to the Coding World!</h3>
 
 
-- 🔭 I’m **a fresher at VIT Bhopal**
+- 🔭 I’m **a student at VIT Bhopal**
 
-- 🌱 I’m currently learning **Full stack Web Development**
+- 🌱 I’m currently learning **--**
 
 - 📫 How to reach me **sobhansa03@gmail.com**
 
