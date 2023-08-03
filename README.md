@@ -8,7 +8,7 @@
 
 - 🔭 I’m **a student at VIT Bhopal**
 
-- 🌱 I’m currently learning **--**
+- 🌱 I’m currently advancing in the field of **Machine Learning**
 
 - 📫 How to reach me **sobhansa03@gmail.com**
 
