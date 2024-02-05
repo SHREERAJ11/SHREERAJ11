@@ -1,6 +1,6 @@
 
 
-![SHREERAJ11](https://user-images.githubusercontent.com/87289615/137436471-036ae10c-a2b5-40dc-9927-6575334b605e.png)
+![SHREERAJ11](IMG_3978.jpg)
 
 <h1 align="center">Hi 👋, I'm Sobhan Shreeraj Sa</h1>
 <h3 align="center">Embarking on a Code Quest</h3>
