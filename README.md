@@ -10,7 +10,7 @@
 
 - 🔭 I’m a student at **VIT Bhopal**
 
-- 🌱 I’m currently advancing in the field of **Machine Learning**
+- 🌱 I’m currently advancing in the field of **Data Science**
 
 - 👯 I’m currently working on [Landmark Detection](https://github.com/SHREERAJ11/Landmark_detection)
 
