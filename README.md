@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently advancing in the field of **Data Science**
 
-- 👯 I’m currently working on [Landmark Detection](https://github.com/SHREERAJ11/Landmark_detection)
+- 👯 I’m currently working on [--]()
 
 - 📫 How to reach me **sobhansa03@gmail.com**
 
